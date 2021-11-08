@@ -3,7 +3,8 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-//This program to
+/*This program shows how the child process do some calculation
+  and return the value to parent process using a pipe.*/
 int getPIN()
 {
  //use PPID and PID as the seed
