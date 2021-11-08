@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <errno.h>
 #include <signal.h>
-
+//This program for sending the signal to process using keyboard
 int main()
 {
  void sigint_handler(int sig);
