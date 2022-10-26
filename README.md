@@ -1,4 +1,1 @@
-Emmirul Haziq Bin Mohd Rashid
-2021341071
-CS2554A
-Lab3: Interprocess Communication
+This is source code for inter-process communication by using signals, pipe() and fork() function.
